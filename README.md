@@ -1,0 +1,2 @@
+# GCodeStageLoweredTool
+3Dプリンター印刷後にステージを下げるコマンド追加
